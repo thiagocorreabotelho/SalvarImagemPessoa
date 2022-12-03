@@ -32,6 +32,7 @@ Agora que adicionamos vamos configurar o nosso item.
 ![image](https://user-images.githubusercontent.com/99252640/205414743-bdeb40fc-21ab-4cfd-906b-331eb0f5cd5f.png)
 
 1- Selecionar a classe na qual usaremos as propriedades dentro da view.
+
 2- Selecionar seu datacontext ou criar um _Lembrando que se você criar um novo, terá que configurar dentro do program a classe que faz a conexão e nos arquivos appsettings.json_
 
 3- Definir o nome da controller.
