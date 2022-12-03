@@ -33,6 +33,9 @@ Agora que adicionamos vamos configurar o nosso item.
 
 1- Selecionar a classe na qual usaremos as propriedades dentro da view.
 
+
+
+
 2- Selecionar seu datacontext ou criar um _Lembrando que se você criar um novo, terá que configurar dentro do program a classe que faz a conexão e nos arquivos appsettings.json_
 
 3- Definir o nome da controller.
@@ -119,3 +122,11 @@ Agora para finalizar nosso código, vamos salvar nossa imagem no banco para isso
 4- Se nossa variável que criamos a imagem foi salva dentro do wwwroot então atribui o valor dentro da propriedade Foto.
 
 5- Salva o arquivo salvo em nossa base de dados.
+
+## trabalhando com Migration
+
+Agora vamos criar nossa migration, para isso devemos adicionar seguite o comendo:
+
+![image](https://user-images.githubusercontent.com/99252640/205416203-faa3aeba-4d50-4674-a40b-1c50cac46ad8.png)
+
+Agora só executar a aplicação. 🤘🏻
